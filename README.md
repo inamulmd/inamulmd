@@ -45,7 +45,7 @@ I'm also passionate about solving algorithmic problems using **C++** and scripti
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-inamul-201665256/)  
 - 📧 Email: your.email@example.com  
 
 ---
