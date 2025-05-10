@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Md Inamul👋
 
 I'm a Full-Stack Developer with a strong foundation in building modern, scalable web applications.  
 I love diving deep into code, understanding systems behind the scenes, and continuously improving my skillset.
