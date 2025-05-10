@@ -1,9 +1,9 @@
-# Hi, I'm Md Inamul 👋
+# Hi, I'm [Your Name] 👋
 
 I'm a Full-Stack Developer with a strong foundation in building modern, scalable web applications.  
 I love diving deep into code, understanding systems behind the scenes, and continuously improving my skillset.
 
-Over time, I've worked with technologies like **React.js**, **Node.js**, **MongoDB**, **Prisma**, **PostgreSQL**, and **NeonDB**.  
+Over time, I've worked with technologies like **React.js**, **Next.js**, **Node.js**, **MongoDB**, **Prisma**, **PostgreSQL**, and **NeonDB**.  
 I'm also passionate about solving algorithmic problems using **C++** and scripting tasks in **Python**.
 
 ---
@@ -16,6 +16,7 @@ I'm also passionate about solving algorithmic problems using **C++** and scripti
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
