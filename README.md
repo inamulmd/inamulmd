@@ -41,7 +41,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inamulmdshow_icons=true&theme=react&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inamulmd&show_icons=true&theme=react&border_radius=10" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=inamulmd&theme=react&border_radius=10" />
   <br />
