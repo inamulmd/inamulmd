@@ -1,53 +1,68 @@
-# Hi, I'm Md Inamul👋
+<h1 align="center">Hi 👋, I'm Md Inamul</h1>
+<h3 align="center">Full-Stack Developer | Problem Solver | Lifelong Learner</h3>
 
-I'm a Full-Stack Developer with a strong foundation in building modern, scalable web applications.  
-I love diving deep into code, understanding systems behind the scenes, and continuously improving my skillset.
-
-Over time, I've worked with technologies like **React.js**, **Next.js**, **Node.js**, **MongoDB**, **Prisma**, **PostgreSQL**, and **NeonDB**.  
-I'm also passionate about solving algorithmic problems using **C++** and scripting tasks in **Python**.
-
----
-
-## 🔧 Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon-1e90ff?style=for-the-badge&logo=data:image/svg+xml;base64,[...]&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/your-github-username">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Md Inamul" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Recent Topics I’m Exploring
+### 👨‍💻 About Me
 
-- 🔖 The tradeoffs between Prisma and raw SQL for PostgreSQL  
-- 🔖 Using NeonDB in modern serverless applications  
-- 🔖 Optimizing MongoDB performance with indexes and aggregations  
-- 🔖 Implementing secure auth with JWTs and OAuth  
-- 🔖 Solving advanced binary search and graph problems in C++  
-- 🔖 Exploring Python automation for daily dev tasks  
-
----
-
-## 📫 Let's Connect
-
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-inamul-201665256/)  
-- 📧 Email: your.email@example.com  
+- 🔭 I’m currently working on full-stack web apps  
+- 🌱 I’m exploring advanced algorithms and Python automation  
+- 💬 Ask me about **MERN stack**, **Prisma**, **PostgreSQL**, and **C++ DSA**  
+- 📫 Reach me at: **your.email@example.com**  
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
-⚡ *Always learning. Always building.*
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Md Inamul GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/md-inamul-201665256/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“Always learning. Always building.”</i></p>
