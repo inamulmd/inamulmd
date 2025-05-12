@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | C++ DSA Enthusiast | Python Automator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=inamulmd&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
 
 ---
@@ -41,11 +41,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inamulmdshow_icons=true&theme=react&border_radius=10" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=react&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=inamulmd&theme=react&border_radius=10" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamulmd&layout=compact&theme=react&border_radius=10" />
 </p>
 
 ---
